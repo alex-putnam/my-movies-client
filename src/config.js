@@ -1,0 +1,4 @@
+// eslint-disable-next-line
+export default {
+  API_KEY: process.env.REACT_APP_API_KEY,
+};
